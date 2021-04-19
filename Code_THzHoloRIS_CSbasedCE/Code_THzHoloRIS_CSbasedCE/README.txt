@@ -1,4 +1,4 @@
-The codes correspond to Fig. 12 in [Ref]. One can change the parameters in line 7 and line 8 of the .m file entitled "main_..." for different settings.
+The Matlab codes correspond to Fig. 12 in [Ref]. One can change the parameters in line 7 and line 8 of the .m file entitled "main_..." for different settings.
 
 IRS_type (in line 7):
 	'C': continuous metasurfaces;
@@ -16,3 +16,5 @@ If you have any question, please contact the authors (e-mail: wanziwei@vip.qq.co
        "Terahertz Massive MIMO with Holographic Reconfigurable Intelligent Surfaces,"
         in IEEE Transactions on Communications. doi: 10.1109/TCOMM.2021.3064949
 
+Update: The codes correspond to Figs. 3 and 4 in [Ref] are available. 
+	Run the main_Plot.m in the folder to generate the sketch maps of beam patterns considered in the paper.
